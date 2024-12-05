@@ -13,12 +13,12 @@ class Data:
 
     buttons = [
         generate_single_button,
-        [InlineKeyboardButton("✨ Bot Status and More Bots ✨", url="https://t.me/ELUpdates/8")],
+        [InlineKeyboardButton("✨ Bot Status and More Bots ✨", url="https://t.me/The_Incricible")],
         [
             InlineKeyboardButton("How to Use ❔", callback_data="help"),
             InlineKeyboardButton("🎪 About 🎪", callback_data="about")
         ],
-        [InlineKeyboardButton("♥ More Amazing bots ♥", url="https://t.me/ELUpdates")],
+        [InlineKeyboardButton("♥ More Amazing bots ♥", url="https://t.me/The_incricible")],
     ]
 
     START = """
@@ -50,13 +50,13 @@ By @ELUpdates
     ABOUT = """
 **About This Bot** 
 
-Telegram Bot to generate Pyrogram and Telethon string session by @ELUpdates
+Telegram Bot to generate Pyrogram and Telethon string session by @zoyu_support
 
-Source Code : [Click Here](https://github.com/EL-Coders/SessionStringBot)
+Source Code : [Click Here](https://github.com/LEGEND_MICKEY)
 
 Framework : [Pyrogram](https://docs.pyrogram.org)
 
 Language : [Python](https://www.python.org)
 
-Developer : @CoderEL
+Developer : @Legend_mickey
     """
